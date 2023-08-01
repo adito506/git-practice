@@ -7,3 +7,4 @@ conflict-remote上で更新（コンフリクト発生）
 rebase-practiceで更新
 再更新、コンフリクト用
 github上で更新、rebase　pull用
+さらに自習用、fetchするとどうなるのか
