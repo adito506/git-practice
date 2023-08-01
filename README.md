@@ -6,3 +6,4 @@ conflict-remote上で更新（コンフリクト発生）
 自分のリポでさらにさらに更新
 rebase-practiceで更新
 再更新、コンフリクト用
+github上で更新、rebase　pull用
