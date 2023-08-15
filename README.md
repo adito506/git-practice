@@ -9,4 +9,4 @@ rebase-practiceで更新
 github上で更新、rebase　pull用
 さらに自習用、fetchするとどうなるのか
 Stash練習用
-トラック練習用
+2nd
